@@ -16,7 +16,7 @@ A premade batch job script for installing Conda is provided on the cluster. You 
 2. Use shift + ctrl + p to access the command palette
 3. Select Remote-SSH: Connect to Host
 4. Add New SSH Host (if this is the first time)
-5. Input <SUnet ID>@cme291-stanford.login.edu
+5. Input <SUnet_ID>@cme291-stanford.login.edu
 6. Select Linux as the OS if prompted
 7. After inputting your password you should be able to use VS Code on the cluster
 
